@@ -1,0 +1,7 @@
+Required extensions
+
+pillow-heif
+pyinstaller
+tkinter (if on Linux)
+
+run pyinstaller --onefile --noconsole your_script_name.py in the working directory to compile
